@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "Digital first services | Skandha Media Services",
   description: "Software development, cloud operations, downlinking and hosting, digital ad operations and AI Ops for media companies, on-prem, cloud or hybrid.",
   alternates: {
-    canonical: "https://om-javheri.github.io/skandha-media/digital-first-services/",
+    canonical: "https://skandha-media.vercel.app/digital-first-services/",
   },
   openGraph: {
     type: "website",
     title: "Digital first services | Skandha Media Services",
     description: "Software development, cloud operations, downlinking and hosting, digital ad operations and AI Ops for media companies, on-prem, cloud or hybrid.",
-    url: "https://om-javheri.github.io/skandha-media/digital-first-services/",
+    url: "https://skandha-media.vercel.app/digital-first-services/",
     siteName: "Skandha Media Services",
     locale: "en",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/3ff5a26b-d00f-450f-aff5-4dcb507e4dd1.png",
+      "https://skandha-media.vercel.app/files/3ff5a26b-d00f-450f-aff5-4dcb507e4dd1.png",
     ],
   },
   twitter: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Digital first services | Skandha Media Services",
     description: "Software development, cloud operations, downlinking and hosting, digital ad operations and AI Ops for media companies, on-prem, cloud or hybrid.",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/3ff5a26b-d00f-450f-aff5-4dcb507e4dd1.png",
+      "https://skandha-media.vercel.app/files/3ff5a26b-d00f-450f-aff5-4dcb507e4dd1.png",
     ],
   },
 };
@@ -36,21 +36,21 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://om-javheri.github.io/skandha-media/#website",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#website",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services",
       description: "Cloud-native media operations for broadcasters, OTT platforms and rights holders: playout, live sports, ad operations, AI tools and Media Capability Centres, from Mumbai and Dubai.",
       inLanguage: "en",
       publisher: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
       "@type": "Corporation",
-      "@id": "https://om-javheri.github.io/skandha-media/#organization",
+      "@id": "https://skandha-media.vercel.app/#organization",
       name: "Skandha Media Services Pvt Ltd",
-      url: "https://om-javheri.github.io/skandha-media/",
-      logo: "https://om-javheri.github.io/skandha-media/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
+      url: "https://skandha-media.vercel.app/",
+      logo: "https://skandha-media.vercel.app/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
       email: "globalsales@skandhams.com",
       telephone: "+91 22 62040500",
       address: "B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai 400093, India",
@@ -60,17 +60,17 @@ const jsonLd = {
     },
     {
       "@type": "WebPage",
-      "@id": "https://om-javheri.github.io/skandha-media/digital-first-services/#webpage",
-      url: "https://om-javheri.github.io/skandha-media/digital-first-services/",
+      "@id": "https://skandha-media.vercel.app/digital-first-services/#webpage",
+      url: "https://skandha-media.vercel.app/digital-first-services/",
       name: "Digital first services | Skandha Media Services",
       description: "Software development, cloud operations, downlinking and hosting, digital ad operations and AI Ops for media companies, on-prem, cloud or hybrid.",
       abstract: "Skandha's digital first services cover development, operations, downlinking and hosting, ad operations and AI Ops across on-prem, cloud and hybrid set-ups.",
       inLanguage: "en",
       isPartOf: {
-        "@id": "https://om-javheri.github.io/skandha-media/#website",
+        "@id": "https://skandha-media.vercel.app/#website",
       },
       about: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
@@ -80,13 +80,13 @@ const jsonLd = {
           "@type": "ListItem",
           position: 1,
           name: "Skandha Media Services: cloud media operations",
-          item: "https://om-javheri.github.io/skandha-media/",
+          item: "https://skandha-media.vercel.app/",
         },
         {
           "@type": "ListItem",
           position: 2,
           name: "Digital first services | Skandha Media Services",
-          item: "https://om-javheri.github.io/skandha-media/digital-first-services/",
+          item: "https://skandha-media.vercel.app/digital-first-services/",
         },
       ],
     },

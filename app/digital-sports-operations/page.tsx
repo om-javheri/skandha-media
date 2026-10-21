@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "Digital sports operations | Skandha Media Services",
   description: "Scalable live sports playout, automated ad QC, ad insertion, SyncView and Evince ad monitoring, run by a 24x7 ad operations team.",
   alternates: {
-    canonical: "https://om-javheri.github.io/skandha-media/digital-sports-operations/",
+    canonical: "https://skandha-media.vercel.app/digital-sports-operations/",
   },
   openGraph: {
     type: "website",
     title: "Digital sports operations | Skandha Media Services",
     description: "Scalable live sports playout, automated ad QC, ad insertion, SyncView and Evince ad monitoring, run by a 24x7 ad operations team.",
-    url: "https://om-javheri.github.io/skandha-media/digital-sports-operations/",
+    url: "https://skandha-media.vercel.app/digital-sports-operations/",
     siteName: "Skandha Media Services",
     locale: "en",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/5a4d7215-0e41-4bf4-975d-47efcba8df5a.png",
+      "https://skandha-media.vercel.app/files/5a4d7215-0e41-4bf4-975d-47efcba8df5a.png",
     ],
   },
   twitter: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Digital sports operations | Skandha Media Services",
     description: "Scalable live sports playout, automated ad QC, ad insertion, SyncView and Evince ad monitoring, run by a 24x7 ad operations team.",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/5a4d7215-0e41-4bf4-975d-47efcba8df5a.png",
+      "https://skandha-media.vercel.app/files/5a4d7215-0e41-4bf4-975d-47efcba8df5a.png",
     ],
   },
 };
@@ -36,21 +36,21 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://om-javheri.github.io/skandha-media/#website",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#website",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services",
       description: "Cloud-native media operations for broadcasters, OTT platforms and rights holders: playout, live sports, ad operations, AI tools and Media Capability Centres, from Mumbai and Dubai.",
       inLanguage: "en",
       publisher: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
       "@type": "Corporation",
-      "@id": "https://om-javheri.github.io/skandha-media/#organization",
+      "@id": "https://skandha-media.vercel.app/#organization",
       name: "Skandha Media Services Pvt Ltd",
-      url: "https://om-javheri.github.io/skandha-media/",
-      logo: "https://om-javheri.github.io/skandha-media/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
+      url: "https://skandha-media.vercel.app/",
+      logo: "https://skandha-media.vercel.app/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
       email: "globalsales@skandhams.com",
       telephone: "+91 22 62040500",
       address: "B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai 400093, India",
@@ -60,17 +60,17 @@ const jsonLd = {
     },
     {
       "@type": "WebPage",
-      "@id": "https://om-javheri.github.io/skandha-media/digital-sports-operations/#webpage",
-      url: "https://om-javheri.github.io/skandha-media/digital-sports-operations/",
+      "@id": "https://skandha-media.vercel.app/digital-sports-operations/#webpage",
+      url: "https://skandha-media.vercel.app/digital-sports-operations/",
       name: "Digital sports operations | Skandha Media Services",
       description: "Scalable live sports playout, automated ad QC, ad insertion, SyncView and Evince ad monitoring, run by a 24x7 ad operations team.",
       abstract: "Skandha runs live sports playout with automated ad QC, server- and client-side ad insertion, real-time ad monitoring and a 24x7 managed ad operations team.",
       inLanguage: "en",
       isPartOf: {
-        "@id": "https://om-javheri.github.io/skandha-media/#website",
+        "@id": "https://skandha-media.vercel.app/#website",
       },
       about: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
@@ -80,13 +80,13 @@ const jsonLd = {
           "@type": "ListItem",
           position: 1,
           name: "Skandha Media Services: cloud media operations",
-          item: "https://om-javheri.github.io/skandha-media/",
+          item: "https://skandha-media.vercel.app/",
         },
         {
           "@type": "ListItem",
           position: 2,
           name: "Digital sports operations | Skandha Media Services",
-          item: "https://om-javheri.github.io/skandha-media/digital-sports-operations/",
+          item: "https://skandha-media.vercel.app/digital-sports-operations/",
         },
       ],
     },

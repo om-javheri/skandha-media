@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "Customized live streaming solutions | Skandha | Skandha Media Services",
   description: "Live streaming, playout and pipeline automation shaped around sports, news, concerts, fitness, gaming, religious and corporate events.",
   alternates: {
-    canonical: "https://om-javheri.github.io/skandha-media/customized-solutions/",
+    canonical: "https://skandha-media.vercel.app/customized-solutions/",
   },
   openGraph: {
     type: "website",
     title: "Customized live streaming solutions | Skandha",
     description: "Live streaming, playout and pipeline automation shaped around sports, news, concerts, fitness, gaming, religious and corporate events.",
-    url: "https://om-javheri.github.io/skandha-media/customized-solutions/",
+    url: "https://skandha-media.vercel.app/customized-solutions/",
     siteName: "Skandha Media Services",
     locale: "en",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/0e22f6bf-b986-45af-ad5a-d789d931c274.png",
+      "https://skandha-media.vercel.app/files/0e22f6bf-b986-45af-ad5a-d789d931c274.png",
     ],
   },
   twitter: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Customized live streaming solutions | Skandha",
     description: "Live streaming, playout and pipeline automation shaped around sports, news, concerts, fitness, gaming, religious and corporate events.",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/0e22f6bf-b986-45af-ad5a-d789d931c274.png",
+      "https://skandha-media.vercel.app/files/0e22f6bf-b986-45af-ad5a-d789d931c274.png",
     ],
   },
 };
@@ -36,21 +36,21 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://om-javheri.github.io/skandha-media/#website",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#website",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services",
       description: "Cloud-native media operations for broadcasters, OTT platforms and rights holders: playout, live sports, ad operations, AI tools and Media Capability Centres, from Mumbai and Dubai.",
       inLanguage: "en",
       publisher: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
       "@type": "Corporation",
-      "@id": "https://om-javheri.github.io/skandha-media/#organization",
+      "@id": "https://skandha-media.vercel.app/#organization",
       name: "Skandha Media Services Pvt Ltd",
-      url: "https://om-javheri.github.io/skandha-media/",
-      logo: "https://om-javheri.github.io/skandha-media/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
+      url: "https://skandha-media.vercel.app/",
+      logo: "https://skandha-media.vercel.app/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
       email: "globalsales@skandhams.com",
       telephone: "+91 22 62040500",
       address: "B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai 400093, India",
@@ -60,17 +60,17 @@ const jsonLd = {
     },
     {
       "@type": "WebPage",
-      "@id": "https://om-javheri.github.io/skandha-media/customized-solutions/#webpage",
-      url: "https://om-javheri.github.io/skandha-media/customized-solutions/",
+      "@id": "https://skandha-media.vercel.app/customized-solutions/#webpage",
+      url: "https://skandha-media.vercel.app/customized-solutions/",
       name: "Customized live streaming solutions | Skandha",
       description: "Live streaming, playout and pipeline automation shaped around sports, news, concerts, fitness, gaming, religious and corporate events.",
       abstract: "Skandha builds custom live streaming for each event, with SaaS playout, IP delivery to affiliates, sports playout and automated pipelines from trigger to transmission.",
       inLanguage: "en",
       isPartOf: {
-        "@id": "https://om-javheri.github.io/skandha-media/#website",
+        "@id": "https://skandha-media.vercel.app/#website",
       },
       about: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
@@ -80,13 +80,13 @@ const jsonLd = {
           "@type": "ListItem",
           position: 1,
           name: "Skandha Media Services: cloud media operations",
-          item: "https://om-javheri.github.io/skandha-media/",
+          item: "https://skandha-media.vercel.app/",
         },
         {
           "@type": "ListItem",
           position: 2,
           name: "Customized live streaming solutions | Skandha",
-          item: "https://om-javheri.github.io/skandha-media/customized-solutions/",
+          item: "https://skandha-media.vercel.app/customized-solutions/",
         },
       ],
     },

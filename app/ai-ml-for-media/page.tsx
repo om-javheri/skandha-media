@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "AI/ML for media | Skandha Media Services",
   description: "Evince proof of ad delivery, translation, optimal ad placement, object ad detection and addressable TV advertising powered by AI and machine learning.",
   alternates: {
-    canonical: "https://om-javheri.github.io/skandha-media/ai-ml-for-media/",
+    canonical: "https://skandha-media.vercel.app/ai-ml-for-media/",
   },
   openGraph: {
     type: "website",
     title: "AI/ML for media | Skandha Media Services",
     description: "Evince proof of ad delivery, translation, optimal ad placement, object ad detection and addressable TV advertising powered by AI and machine learning.",
-    url: "https://om-javheri.github.io/skandha-media/ai-ml-for-media/",
+    url: "https://skandha-media.vercel.app/ai-ml-for-media/",
     siteName: "Skandha Media Services",
     locale: "en",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/e6e2e1c6-6993-42a0-a865-43ef03c0c187.png",
+      "https://skandha-media.vercel.app/files/e6e2e1c6-6993-42a0-a865-43ef03c0c187.png",
     ],
   },
   twitter: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "AI/ML for media | Skandha Media Services",
     description: "Evince proof of ad delivery, translation, optimal ad placement, object ad detection and addressable TV advertising powered by AI and machine learning.",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/e6e2e1c6-6993-42a0-a865-43ef03c0c187.png",
+      "https://skandha-media.vercel.app/files/e6e2e1c6-6993-42a0-a865-43ef03c0c187.png",
     ],
   },
 };
@@ -36,21 +36,21 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://om-javheri.github.io/skandha-media/#website",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#website",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services",
       description: "Cloud-native media operations for broadcasters, OTT platforms and rights holders: playout, live sports, ad operations, AI tools and Media Capability Centres, from Mumbai and Dubai.",
       inLanguage: "en",
       publisher: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
       "@type": "Corporation",
-      "@id": "https://om-javheri.github.io/skandha-media/#organization",
+      "@id": "https://skandha-media.vercel.app/#organization",
       name: "Skandha Media Services Pvt Ltd",
-      url: "https://om-javheri.github.io/skandha-media/",
-      logo: "https://om-javheri.github.io/skandha-media/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
+      url: "https://skandha-media.vercel.app/",
+      logo: "https://skandha-media.vercel.app/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
       email: "globalsales@skandhams.com",
       telephone: "+91 22 62040500",
       address: "B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai 400093, India",
@@ -60,17 +60,17 @@ const jsonLd = {
     },
     {
       "@type": "WebPage",
-      "@id": "https://om-javheri.github.io/skandha-media/ai-ml-for-media/#webpage",
-      url: "https://om-javheri.github.io/skandha-media/ai-ml-for-media/",
+      "@id": "https://skandha-media.vercel.app/ai-ml-for-media/#webpage",
+      url: "https://skandha-media.vercel.app/ai-ml-for-media/",
       name: "AI/ML for media | Skandha Media Services",
       description: "Evince proof of ad delivery, translation, optimal ad placement, object ad detection and addressable TV advertising powered by AI and machine learning.",
       abstract: "Skandha uses AI and machine learning to detect problems early and to verify, place and target ads, including Evince visual proof of delivery and addressable TV.",
       inLanguage: "en",
       isPartOf: {
-        "@id": "https://om-javheri.github.io/skandha-media/#website",
+        "@id": "https://skandha-media.vercel.app/#website",
       },
       about: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
@@ -80,13 +80,13 @@ const jsonLd = {
           "@type": "ListItem",
           position: 1,
           name: "Skandha Media Services: cloud media operations",
-          item: "https://om-javheri.github.io/skandha-media/",
+          item: "https://skandha-media.vercel.app/",
         },
         {
           "@type": "ListItem",
           position: 2,
           name: "AI/ML for media | Skandha Media Services",
-          item: "https://om-javheri.github.io/skandha-media/ai-ml-for-media/",
+          item: "https://skandha-media.vercel.app/ai-ml-for-media/",
         },
       ],
     },

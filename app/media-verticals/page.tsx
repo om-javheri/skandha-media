@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "Media verticals we serve | Skandha Media Services",
   description: "Services for content owners, broadcasters, OTT platforms, brands and advertisers, post-production houses and gaming and eSports companies.",
   alternates: {
-    canonical: "https://om-javheri.github.io/skandha-media/media-verticals/",
+    canonical: "https://skandha-media.vercel.app/media-verticals/",
   },
   openGraph: {
     type: "website",
     title: "Media verticals we serve | Skandha Media Services",
     description: "Services for content owners, broadcasters, OTT platforms, brands and advertisers, post-production houses and gaming and eSports companies.",
-    url: "https://om-javheri.github.io/skandha-media/media-verticals/",
+    url: "https://skandha-media.vercel.app/media-verticals/",
     siteName: "Skandha Media Services",
     locale: "en",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/62b2cf00-1a5d-43db-9e9d-addf043dae2e.png",
+      "https://skandha-media.vercel.app/files/62b2cf00-1a5d-43db-9e9d-addf043dae2e.png",
     ],
   },
   twitter: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Media verticals we serve | Skandha Media Services",
     description: "Services for content owners, broadcasters, OTT platforms, brands and advertisers, post-production houses and gaming and eSports companies.",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/62b2cf00-1a5d-43db-9e9d-addf043dae2e.png",
+      "https://skandha-media.vercel.app/files/62b2cf00-1a5d-43db-9e9d-addf043dae2e.png",
     ],
   },
 };
@@ -36,21 +36,21 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://om-javheri.github.io/skandha-media/#website",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#website",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services",
       description: "Cloud-native media operations for broadcasters, OTT platforms and rights holders: playout, live sports, ad operations, AI tools and Media Capability Centres, from Mumbai and Dubai.",
       inLanguage: "en",
       publisher: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
       "@type": "Corporation",
-      "@id": "https://om-javheri.github.io/skandha-media/#organization",
+      "@id": "https://skandha-media.vercel.app/#organization",
       name: "Skandha Media Services Pvt Ltd",
-      url: "https://om-javheri.github.io/skandha-media/",
-      logo: "https://om-javheri.github.io/skandha-media/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
+      url: "https://skandha-media.vercel.app/",
+      logo: "https://skandha-media.vercel.app/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
       email: "globalsales@skandhams.com",
       telephone: "+91 22 62040500",
       address: "B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai 400093, India",
@@ -60,17 +60,17 @@ const jsonLd = {
     },
     {
       "@type": "WebPage",
-      "@id": "https://om-javheri.github.io/skandha-media/media-verticals/#webpage",
-      url: "https://om-javheri.github.io/skandha-media/media-verticals/",
+      "@id": "https://skandha-media.vercel.app/media-verticals/#webpage",
+      url: "https://skandha-media.vercel.app/media-verticals/",
       name: "Media verticals we serve | Skandha Media Services",
       description: "Services for content owners, broadcasters, OTT platforms, brands and advertisers, post-production houses and gaming and eSports companies.",
       abstract: "Skandha serves content owners and rights holders, broadcasters, OTT platforms, brands and advertisers, post-production and gaming and eSports with tailored digital operations.",
       inLanguage: "en",
       isPartOf: {
-        "@id": "https://om-javheri.github.io/skandha-media/#website",
+        "@id": "https://skandha-media.vercel.app/#website",
       },
       about: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
@@ -80,13 +80,13 @@ const jsonLd = {
           "@type": "ListItem",
           position: 1,
           name: "Skandha Media Services: cloud media operations",
-          item: "https://om-javheri.github.io/skandha-media/",
+          item: "https://skandha-media.vercel.app/",
         },
         {
           "@type": "ListItem",
           position: 2,
           name: "Media verticals we serve | Skandha Media Services",
-          item: "https://om-javheri.github.io/skandha-media/media-verticals/",
+          item: "https://skandha-media.vercel.app/media-verticals/",
         },
       ],
     },

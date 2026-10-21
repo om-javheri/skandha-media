@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://om-javheri.github.io/skandha-media/sitemap.xml
+Sitemap: https://skandha-media.vercel.app/sitemap.xml

@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "About Skandha Media Services | Skandha Media Services",
   description: "Our story since 2013, 200+ people in Mumbai and Dubai, our BluLive Pro, Evince and SyncView products, awards, team, clients and partners.",
   alternates: {
-    canonical: "https://om-javheri.github.io/skandha-media/about/",
+    canonical: "https://skandha-media.vercel.app/about/",
   },
   openGraph: {
     type: "website",
     title: "About Skandha Media Services",
     description: "Our story since 2013, 200+ people in Mumbai and Dubai, our BluLive Pro, Evince and SyncView products, awards, team, clients and partners.",
-    url: "https://om-javheri.github.io/skandha-media/about/",
+    url: "https://skandha-media.vercel.app/about/",
     siteName: "Skandha Media Services",
     locale: "en",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/b436345e-442a-4882-ab17-e8d9a6e7a54f.png",
+      "https://skandha-media.vercel.app/files/b436345e-442a-4882-ab17-e8d9a6e7a54f.png",
     ],
   },
   twitter: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "About Skandha Media Services",
     description: "Our story since 2013, 200+ people in Mumbai and Dubai, our BluLive Pro, Evince and SyncView products, awards, team, clients and partners.",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/b436345e-442a-4882-ab17-e8d9a6e7a54f.png",
+      "https://skandha-media.vercel.app/files/b436345e-442a-4882-ab17-e8d9a6e7a54f.png",
     ],
   },
 };
@@ -36,21 +36,21 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://om-javheri.github.io/skandha-media/#website",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#website",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services",
       description: "Cloud-native media operations for broadcasters, OTT platforms and rights holders: playout, live sports, ad operations, AI tools and Media Capability Centres, from Mumbai and Dubai.",
       inLanguage: "en",
       publisher: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
       "@type": "Corporation",
-      "@id": "https://om-javheri.github.io/skandha-media/#organization",
+      "@id": "https://skandha-media.vercel.app/#organization",
       name: "Skandha Media Services Pvt Ltd",
-      url: "https://om-javheri.github.io/skandha-media/",
-      logo: "https://om-javheri.github.io/skandha-media/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
+      url: "https://skandha-media.vercel.app/",
+      logo: "https://skandha-media.vercel.app/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
       email: "globalsales@skandhams.com",
       telephone: "+91 22 62040500",
       address: "B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai 400093, India",
@@ -60,17 +60,17 @@ const jsonLd = {
     },
     {
       "@type": "WebPage",
-      "@id": "https://om-javheri.github.io/skandha-media/about/#webpage",
-      url: "https://om-javheri.github.io/skandha-media/about/",
+      "@id": "https://skandha-media.vercel.app/about/#webpage",
+      url: "https://skandha-media.vercel.app/about/",
       name: "About Skandha Media Services",
       description: "Our story since 2013, 200+ people in Mumbai and Dubai, our BluLive Pro, Evince and SyncView products, awards, team, clients and partners.",
       abstract: "Skandha Media Services was founded in 2013 and has more than 200 people. It built BluLive Pro, Evince and SyncView, holds ISO 27001:2022 and works with clients such as FanCode.",
       inLanguage: "en",
       isPartOf: {
-        "@id": "https://om-javheri.github.io/skandha-media/#website",
+        "@id": "https://skandha-media.vercel.app/#website",
       },
       about: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
@@ -80,13 +80,13 @@ const jsonLd = {
           "@type": "ListItem",
           position: 1,
           name: "Skandha Media Services: cloud media operations",
-          item: "https://om-javheri.github.io/skandha-media/",
+          item: "https://skandha-media.vercel.app/",
         },
         {
           "@type": "ListItem",
           position: 2,
           name: "About Skandha Media Services",
-          item: "https://om-javheri.github.io/skandha-media/about/",
+          item: "https://skandha-media.vercel.app/about/",
         },
       ],
     },

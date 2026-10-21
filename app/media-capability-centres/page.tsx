@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "Media Capability Centres (MCC) | Skandha | Skandha Media Services",
   description: "What a Media Capability Centre is, why India is the ideal MCC hub and how Skandha designs, deploys and scales one for you in four steps.",
   alternates: {
-    canonical: "https://om-javheri.github.io/skandha-media/media-capability-centres/",
+    canonical: "https://skandha-media.vercel.app/media-capability-centres/",
   },
   openGraph: {
     type: "website",
     title: "Media Capability Centres (MCC) | Skandha",
     description: "What a Media Capability Centre is, why India is the ideal MCC hub and how Skandha designs, deploys and scales one for you in four steps.",
-    url: "https://om-javheri.github.io/skandha-media/media-capability-centres/",
+    url: "https://skandha-media.vercel.app/media-capability-centres/",
     siteName: "Skandha Media Services",
     locale: "en",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/17b417f1-5903-4197-a26e-8cb894a300fc.jpg",
+      "https://skandha-media.vercel.app/files/17b417f1-5903-4197-a26e-8cb894a300fc.jpg",
     ],
   },
   twitter: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Media Capability Centres (MCC) | Skandha",
     description: "What a Media Capability Centre is, why India is the ideal MCC hub and how Skandha designs, deploys and scales one for you in four steps.",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/17b417f1-5903-4197-a26e-8cb894a300fc.jpg",
+      "https://skandha-media.vercel.app/files/17b417f1-5903-4197-a26e-8cb894a300fc.jpg",
     ],
   },
 };
@@ -36,21 +36,21 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://om-javheri.github.io/skandha-media/#website",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#website",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services",
       description: "Cloud-native media operations for broadcasters, OTT platforms and rights holders: playout, live sports, ad operations, AI tools and Media Capability Centres, from Mumbai and Dubai.",
       inLanguage: "en",
       publisher: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
       "@type": "Corporation",
-      "@id": "https://om-javheri.github.io/skandha-media/#organization",
+      "@id": "https://skandha-media.vercel.app/#organization",
       name: "Skandha Media Services Pvt Ltd",
-      url: "https://om-javheri.github.io/skandha-media/",
-      logo: "https://om-javheri.github.io/skandha-media/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
+      url: "https://skandha-media.vercel.app/",
+      logo: "https://skandha-media.vercel.app/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
       email: "globalsales@skandhams.com",
       telephone: "+91 22 62040500",
       address: "B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai 400093, India",
@@ -60,17 +60,17 @@ const jsonLd = {
     },
     {
       "@type": "WebPage",
-      "@id": "https://om-javheri.github.io/skandha-media/media-capability-centres/#webpage",
-      url: "https://om-javheri.github.io/skandha-media/media-capability-centres/",
+      "@id": "https://skandha-media.vercel.app/media-capability-centres/#webpage",
+      url: "https://skandha-media.vercel.app/media-capability-centres/",
       name: "Media Capability Centres (MCC) | Skandha",
       description: "What a Media Capability Centre is, why India is the ideal MCC hub and how Skandha designs, deploys and scales one for you in four steps.",
       abstract: "A Media Capability Centre runs media operations from one central, cloud-based hub. Skandha builds MCCs in India for global media companies in four steps: discovery, design, deploy and scale.",
       inLanguage: "en",
       isPartOf: {
-        "@id": "https://om-javheri.github.io/skandha-media/#website",
+        "@id": "https://skandha-media.vercel.app/#website",
       },
       about: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
@@ -80,13 +80,13 @@ const jsonLd = {
           "@type": "ListItem",
           position: 1,
           name: "Skandha Media Services: cloud media operations",
-          item: "https://om-javheri.github.io/skandha-media/",
+          item: "https://skandha-media.vercel.app/",
         },
         {
           "@type": "ListItem",
           position: 2,
           name: "Media Capability Centres (MCC) | Skandha",
-          item: "https://om-javheri.github.io/skandha-media/media-capability-centres/",
+          item: "https://skandha-media.vercel.app/media-capability-centres/",
         },
       ],
     },

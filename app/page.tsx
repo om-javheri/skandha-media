@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "Skandha Media Services: cloud media operations | Skandha Media Services",
   description: "Playout, live sports streaming, ad operations and AI tools for broadcasters and OTT platforms, run 24x7 from Mumbai and Dubai since 2013.",
   alternates: {
-    canonical: "https://om-javheri.github.io/skandha-media/",
+    canonical: "https://skandha-media.vercel.app/",
   },
   openGraph: {
     type: "website",
     title: "Skandha Media Services: cloud media operations",
     description: "Playout, live sports streaming, ad operations and AI tools for broadcasters and OTT platforms, run 24x7 from Mumbai and Dubai since 2013.",
-    url: "https://om-javheri.github.io/skandha-media/",
+    url: "https://skandha-media.vercel.app/",
     siteName: "Skandha Media Services",
     locale: "en",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/ce86f5a6-c059-42f6-90b6-781908d32526.png",
+      "https://skandha-media.vercel.app/files/ce86f5a6-c059-42f6-90b6-781908d32526.png",
     ],
   },
   twitter: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Skandha Media Services: cloud media operations",
     description: "Playout, live sports streaming, ad operations and AI tools for broadcasters and OTT platforms, run 24x7 from Mumbai and Dubai since 2013.",
     images: [
-      "https://om-javheri.github.io/skandha-media/files/ce86f5a6-c059-42f6-90b6-781908d32526.png",
+      "https://skandha-media.vercel.app/files/ce86f5a6-c059-42f6-90b6-781908d32526.png",
     ],
   },
 };
@@ -36,21 +36,21 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://om-javheri.github.io/skandha-media/#website",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#website",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services",
       description: "Cloud-native media operations for broadcasters, OTT platforms and rights holders: playout, live sports, ad operations, AI tools and Media Capability Centres, from Mumbai and Dubai.",
       inLanguage: "en",
       publisher: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
       "@type": "Corporation",
-      "@id": "https://om-javheri.github.io/skandha-media/#organization",
+      "@id": "https://skandha-media.vercel.app/#organization",
       name: "Skandha Media Services Pvt Ltd",
-      url: "https://om-javheri.github.io/skandha-media/",
-      logo: "https://om-javheri.github.io/skandha-media/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
+      url: "https://skandha-media.vercel.app/",
+      logo: "https://skandha-media.vercel.app/files/d0870c16-0072-499e-a95c-aa73e1eeb3e9.png",
       email: "globalsales@skandhams.com",
       telephone: "+91 22 62040500",
       address: "B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai 400093, India",
@@ -60,17 +60,17 @@ const jsonLd = {
     },
     {
       "@type": "WebPage",
-      "@id": "https://om-javheri.github.io/skandha-media/#webpage",
-      url: "https://om-javheri.github.io/skandha-media/",
+      "@id": "https://skandha-media.vercel.app/#webpage",
+      url: "https://skandha-media.vercel.app/",
       name: "Skandha Media Services: cloud media operations",
       description: "Playout, live sports streaming, ad operations and AI tools for broadcasters and OTT platforms, run 24x7 from Mumbai and Dubai since 2013.",
       abstract: "Skandha Media Services, founded in 2013 in Mumbai, runs media operations for broadcasters, OTT platforms, content owners and rights holders: cloud infrastructure, playout, VOD transcoding, content management, live sports and ad operations, built around Media Capability Centres.",
       inLanguage: "en",
       isPartOf: {
-        "@id": "https://om-javheri.github.io/skandha-media/#website",
+        "@id": "https://skandha-media.vercel.app/#website",
       },
       about: {
-        "@id": "https://om-javheri.github.io/skandha-media/#organization",
+        "@id": "https://skandha-media.vercel.app/#organization",
       },
     },
     {
